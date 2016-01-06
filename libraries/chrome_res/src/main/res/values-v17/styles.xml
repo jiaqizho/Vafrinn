@@ -378,4 +378,15 @@
         <item name="android:layout_height">56dp</item>
         <item name="android:scaleType">center</item>
     </style>
+
+    <style name="SelectPopupDialog">
+        <item name="select_dialog_singlechoice">@android:layout/select_dialog_singlechoice</item>
+        <item name="select_dialog_multichoice">@android:layout/select_dialog_multichoice</item>
+    </style>
+    <style name="SelectActionMenuShare">
+        <item name="android:icon">@drawable/ic_menu_share_holo_light</item>
+    </style>
+    <style name="SelectActionMenuWebSearch">
+        <item name="android:icon">@drawable/ic_search</item>
+    </style>
 </resources>

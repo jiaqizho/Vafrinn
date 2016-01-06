@@ -74,4 +74,7 @@
         <attr name="fillColor" format="color" />
         <attr name="fillColorSecondary" format="color" />
     </declare-styleable>
+
+    <attr name="select_dialog_multichoice" format="reference" />
+    <attr name="select_dialog_singlechoice" format="reference" />
 </resources>

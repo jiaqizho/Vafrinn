@@ -92,4 +92,11 @@
         <item name="android:spinnerStyle">@style/Spinner.LowEnd</item>
         <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextView.LowEnd</item>
     </style>
+
+    <style name="SelectActionMenuShare">
+        <item name="android:icon">?android:attr/actionModeShareDrawable</item>
+    </style>
+    <style name="SelectActionMenuWebSearch">
+        <item name="android:icon">?android:attr/actionModeWebSearchDrawable</item>
+    </style>
 </resources>

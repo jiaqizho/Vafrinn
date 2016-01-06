@@ -294,4 +294,7 @@
     <!-- The media_session_icon_size is just big enough to make sure Android doesn't discard the
          icon but otherwise, the icon is meant to be a flat color so it doesn't really matter. -->
     <dimen name="media_session_icon_size">48dp</dimen>
+
+
+    <dimen name="link_preview_overlay_radius">7dp</dimen>
 </resources>

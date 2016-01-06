@@ -1,1 +1,1 @@
-include ':app', ':libraries:chrome_res', ':libraries:ui_res', ':libraries:content_res'
+include ':app', ':libraries:chrome_res', ':libraries:ui_res'

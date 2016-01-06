@@ -46,5 +46,4 @@ dependencies {
     compile 'com.google.android.gms:play-services-gcm:8.1.0'
     compile project(':libraries:chrome_res')
     compile project(':libraries:ui_res')
-    compile project(':libraries:content_res')
 }
