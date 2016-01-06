@@ -13,7 +13,6 @@ import android.widget.PopupWindow;
 import org.chromium.base.annotations.CalledByNative;
 import org.chromium.base.annotations.JNINamespace;
 import org.chromium.ui.DropdownPopupWindow;
-import org.chromium.ui.R;
 import org.chromium.ui.base.ViewAndroidDelegate;
 import org.chromium.ui.base.WindowAndroid;
 
@@ -67,7 +66,7 @@ public class PasswordGenerationPopupBridge implements AdapterView.OnItemClickLis
             mPopup.setOnDismissListener(this);
             mPopup.disableHideOnOutsideTap();
             mPopup.setContentDescriptionForAccessibility(
-                    mContext.getString(R.string.password_generation_popup_content_description));
+                    mContext.getString(org.chromium.chrome.R.string.password_generation_popup_content_description));
         }
         mAnchorWidth = 0;
     }

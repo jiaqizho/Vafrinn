@@ -63,4 +63,6 @@
     <item type="id" name="compressed_series" />
     <item type="id" name="original_series" />
 
+
+    <item type="id" name="dropdown_popup_window" />
 </resources>
