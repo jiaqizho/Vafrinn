@@ -5,6 +5,7 @@
 
 <resources>
 
+
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
@@ -158,4 +159,7 @@
 
     <!-- Media UI Colors -->
     <color name="media_session_icon_color">#14181C</color>
+
+    <color name="cast_media_controller_text">#bebebe</color>
+
 </resources>

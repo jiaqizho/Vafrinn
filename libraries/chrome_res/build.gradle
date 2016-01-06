@@ -28,5 +28,4 @@ dependencies {
     compile project(":libraries:ui_res")
     compile project(":libraries:content_res")
     compile project(":libraries:datausagechart_res")
-    compile project(":libraries:androidmedia_res")
 }
