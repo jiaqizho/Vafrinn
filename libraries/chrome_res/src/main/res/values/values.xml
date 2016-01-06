@@ -60,4 +60,7 @@
     <item type="id" name="focus_url_bar" />
     <item type="id" name="show_menu" />
 
+    <item type="id" name="compressed_series" />
+    <item type="id" name="original_series" />
+
 </resources>
