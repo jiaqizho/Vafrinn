@@ -77,8 +77,4 @@
 
     <attr name="select_dialog_multichoice" format="reference" />
     <attr name="select_dialog_singlechoice" format="reference" />
-
-    <declare-styleable name="ButtonCompat">
-        <attr name="buttonColor" format="reference|color"/>
-    </declare-styleable>
 </resources>
