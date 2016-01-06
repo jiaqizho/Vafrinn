@@ -4,6 +4,11 @@
      found in the LICENSE file. -->
 
 <resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
     <!-- Common colors -->
     <color name="default_text_color">#333</color>
     <color name="default_primary_color">#f2f2f2</color>
